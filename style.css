@@ -3,7 +3,8 @@
 
 body{
     margin: 0;
-    background-image: linear-gradient(to left, #8a2ce2, #37006b);
+    background-image: url(imagens/wallpaper005.jpg);
+    background-position: center top;
 }
 
 header{
@@ -46,6 +47,7 @@ nav > a:hover{
 main{
     background-color: white;
     margin: 30px;
+    
 }
 
 .sobremim{
